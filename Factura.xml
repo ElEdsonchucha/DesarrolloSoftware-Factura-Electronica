@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Factura>
+    <cfdi:Comprobante>
+        <cfdi:Comprobante>LugarExpedicion=96536 MetodoPago=PPD TipoComprobante=P Total=3.04738336442E10 Moneda=MXN Certificado=87H7huyh8yh87hyuH8Y9h8H8YhH8yhg8H7yH8h7Yh89H78h9H87h89H78H98h7HYgtydr56D45rfc5Rd5D54d45ybHUB09k0O'9J89+WWSDCFDSF987sdggfdgXCMMLKMPLM987ds897gY89 Subtotal=2.6270546245E10 NoCertificado=00001000000253135700 FormaPago=01</cfdi:Comprobante>
+        <cfdi:Emisor>Rfc=12345 Nombre= RegimenFiscal=606</cfdi:Emisor>
+        <cfdi:Receptor>Rfc=112233 Nombre= UsoCFDI=P01</cfdi:Receptor>
+        <tfd:TimbreFiscalDigital>UUID=A4E139E1-0FB6-4EC5-AE05-D7AACAD8DA33 FechaTimbrado=2021/06/03 20:20:00 RfcProvCertif=SAT970701NN3 SelloCFD=CYEHbGMQUuhuhooije56890548f9gfdjfgjfsdf?¿!676trhgfdggdghfh=QREW+SDfsdgfdgfdg5464745?=1sdfdsf32fsedfsdf90uHUYUTYTRUuqeRRsSsTGAMEstvdfghdfg123dfgfd?*dgffdgfNYQK7/dfgfghgf+erQW54aDALÑS$87HG7 NoCertificadoSAT=00001000000504465028 SelloSAT=dsdfsfdsfUIGHuiGOYgyoYGYUgyuGYuigYGYgyG798g=?PWDafdsgffde89789jfdsf7d8gds8g7fd87gfd78gfd87g78fdg78fdg87fdg7fd78gfd78gf87dg8fdgfd?¡dsfdsWQR7SDFD7trgfdg_fdgfhgf+WWSEO88s89F7GFGSyu?=7h8hr</tfd:TimbreFiscalDigital>
+    </cfdi:Comprobante>
+</Factura>
