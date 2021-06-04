@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<usuarios>
+    <cfdi:Comprobante>
+        <cfdi:Comprobante>LugarExpedicion=96536 MetodoPago=PUE</cfdi:Comprobante>
+        <cfdi:Emisor>Rfc=12345 Nombre=Edson rodriguez RegimenFiscal=612</cfdi:Emisor>
+        <cfdi:Receptor>Rfc=112233 Nombre=Rafael UsoCFDI=D04</cfdi:Receptor>
+        <tfd:TimbreFiscalDigital>Numero=9311384307</tfd:TimbreFiscalDigital>
+    </cfdi:Comprobante>
+</usuarios>
